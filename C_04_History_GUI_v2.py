@@ -3,6 +3,7 @@ from functools import partial  # To prevent unwanted windows
 import all_constants as c
 
 
+
 class Converter:
     """
     Temperature conversion tool (°C to °F or °F to °C)
